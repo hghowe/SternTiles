@@ -8,4 +8,4 @@ You can use sterntiles to design orthographic tileset .png files to use with oth
 
 Sterntiles is freeware. If you have questions or comments, contact harlan d•t howe at kinkaid d•t org.
 
-To download, click on "Sterntiles.jar.zip" above. On the next page, click on the "Download" file. Unzip the file, and you should be able to double-click the Sterntiles.jar file.
+To download, click on "Sterntiles.jar.zip" above. On the next page, click on the "Download" button. Unzip the file, and you should be able to double-click the Sterntiles.jar file.
